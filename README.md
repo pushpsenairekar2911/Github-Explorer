@@ -3,7 +3,7 @@
 This simple app allows users to browse GitHub repos and tag those of interest to them. Users can register or login. They can search for repositories, view open PRs and issues.
 
 
-<img align="left" src="https://github.com/pushpsenairekar2911/ProductHunt-Demo/blob/master/Screenshots/Screenshots.png">
+<img align="left" src="https://github.com/pushpsenairekar2911/Github-Explorer/blob/main/Assets/Screenshots/Screenshot.png">
 
 
 
